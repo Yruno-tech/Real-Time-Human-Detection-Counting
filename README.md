@@ -166,7 +166,8 @@ This can be added as paragraph, and inside it pasting the html copied text, and 
 ****
 
 ### 📌Contributors:
-<a href="https://github.com/akash-rajak/Real-Time-Human-Detection-Counting/graphs/contributors">
+Proyecto original: <a href="https://github.com/akash-rajak/Real-Time-Human-Detection-Counting/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=akash-rajak/Real-Time-Human-Detection-Counting" />
 </a>
+Editor: profermarquez
 
